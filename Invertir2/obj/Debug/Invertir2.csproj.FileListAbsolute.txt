@@ -1,0 +1,7 @@
+C:\Users\Joseph Vargas\source\repos\Invertir2\Invertir2\obj\Debug\Invertir2.csproj.AssemblyReference.cache
+C:\Users\Joseph Vargas\source\repos\Invertir2\Invertir2\obj\Debug\Invertir2.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Vargas\source\repos\Invertir2\Invertir2\bin\Debug\Invertir2.exe.config
+C:\Users\Joseph Vargas\source\repos\Invertir2\Invertir2\bin\Debug\Invertir2.exe
+C:\Users\Joseph Vargas\source\repos\Invertir2\Invertir2\bin\Debug\Invertir2.pdb
+C:\Users\Joseph Vargas\source\repos\Invertir2\Invertir2\obj\Debug\Invertir2.exe
+C:\Users\Joseph Vargas\source\repos\Invertir2\Invertir2\obj\Debug\Invertir2.pdb
