@@ -1,2 +1,2 @@
-# Analisis
-Trabajo colaboratvo de Analisis y desarrollo de sistemas de C# en proceso
+# Metodologia
+Trabajo colaboratvo de Metodologia y programacion estructurada de C# 
