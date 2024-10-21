@@ -1,0 +1,7 @@
+C:\Users\Joseph Vargas\source\repos\CalFact\CalFact\bin\Debug\CalFact.exe.config
+C:\Users\Joseph Vargas\source\repos\CalFact\CalFact\bin\Debug\CalFact.exe
+C:\Users\Joseph Vargas\source\repos\CalFact\CalFact\bin\Debug\CalFact.pdb
+C:\Users\Joseph Vargas\source\repos\CalFact\CalFact\obj\Debug\CalFact.csproj.AssemblyReference.cache
+C:\Users\Joseph Vargas\source\repos\CalFact\CalFact\obj\Debug\CalFact.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Vargas\source\repos\CalFact\CalFact\obj\Debug\CalFact.exe
+C:\Users\Joseph Vargas\source\repos\CalFact\CalFact\obj\Debug\CalFact.pdb
